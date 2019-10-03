@@ -1,16 +1,16 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *TipCalculator*
 
-**Name of your app** is a tip calculator application for iOS.
+**TipCalculator* is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Jasmin Ramirez**
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
 * [ ] Settings page to change the default tip percentage.
@@ -21,13 +21,13 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Implemeneted an additional calculator function.
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/P0hMPszYCQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -35,9 +35,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+One of the biggest challenges I had while building the app pining things to each other. There was also a momenet where I was not attaching the navagation controller to the right view, such that when I ran the simulator the navagition item was not displaying. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2019 Jasmin Ramirez 
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
