@@ -14,6 +14,8 @@
 		DDECAA872344463D005D0ADF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DDECAA852344463D005D0ADF /* LaunchScreen.storyboard */; };
 		DDECAA922344463D005D0ADF /* TipCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDECAA912344463D005D0ADF /* TipCalculatorTests.swift */; };
 		DDECAA9D2344463D005D0ADF /* TipCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDECAA9C2344463D005D0ADF /* TipCalculatorUITests.swift */; };
+		DDECAAAB23452552005D0ADF /* CalculatorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDECAAAA23452551005D0ADF /* CalculatorViewController.swift */; };
+		DDECAAAD2345261D005D0ADF /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDECAAAC2345261D005D0ADF /* Calculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		DDECAA982344463D005D0ADF /* TipCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDECAA9C2344463D005D0ADF /* TipCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalculatorUITests.swift; sourceTree = "<group>"; };
 		DDECAA9E2344463D005D0ADF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DDECAAAA23452551005D0ADF /* CalculatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorViewController.swift; sourceTree = "<group>"; };
+		DDECAAAC2345261D005D0ADF /* Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 				DDECAA7C23444638005D0ADF /* AppDelegate.swift */,
 				DDECAA7E23444638005D0ADF /* ViewController.swift */,
 				DDECAA8023444638005D0ADF /* Main.storyboard */,
+				DDECAAAC2345261D005D0ADF /* Calculator.swift */,
+				DDECAAAA23452551005D0ADF /* CalculatorViewController.swift */,
 				DDECAA832344463D005D0ADF /* Assets.xcassets */,
 				DDECAA852344463D005D0ADF /* LaunchScreen.storyboard */,
 				DDECAA882344463D005D0ADF /* Info.plist */,
@@ -257,6 +263,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				DDECAA7F23444638005D0ADF /* ViewController.swift in Sources */,
+				DDECAAAD2345261D005D0ADF /* Calculator.swift in Sources */,
+				DDECAAAB23452552005D0ADF /* CalculatorViewController.swift in Sources */,
 				DDECAA7D23444638005D0ADF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
