@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] Implemeneted an additional calculator function.
+- [x] Implementing an additional calculator function.
 
 ## Video Walkthrough 
 
