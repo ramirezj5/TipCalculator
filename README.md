@@ -23,19 +23,11 @@ The following **additional** features are implemented:
 
 - [x] Implementing an additional calculator function.
 
-## Video Walkthrough 
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://g.recordit.co/P0hMPszYCQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-One of the biggest challenges I had while building the app pining things to each other. There was also a momenet where I was not attaching the navagation controller to the right view, such that when I ran the simulator the navagition item was not displaying. 
+An issue I faced was aligning elements correctly and linking the navigation controller to the intended view, which caused the navigation item to not display properly in the simulator."
 
 ## License
 
