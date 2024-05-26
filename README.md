@@ -23,12 +23,6 @@ The following **additional** features are implemented:
 
 - [x] Implementing an additional calculator function.
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
-An issue I faced was aligning elements correctly and linking the navigation controller to the intended view, which caused the navigation item to not display properly in the simulator."
-
 ## License
 
     Copyright 2019 Jasmin Ramirez 
